@@ -1,2 +1,2 @@
 # dellta-demo
-This is first delta demo
+This is first delta demo.
